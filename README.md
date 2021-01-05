@@ -15,3 +15,4 @@ It accomplishes the goal via two steps:
 - Overlayinig emojis at the specific coordinates around the face.
 
 ## Sample Output
+![](sample_output.png)
